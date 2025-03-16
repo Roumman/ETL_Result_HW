@@ -2,7 +2,7 @@
 
 
 # Итоги реализации DAG для генерации данных в MongoDB 
-[Посмотреть код в MongoDB Data Generation DAG.py](src/MongoDB%20Data%20Generation%20DAG.py)
+[Посмотреть код в MongoDB Data Generation DAG.py](scr/MongoDB%20Data%20Generation%20DAG.py)
 
 В данном коде был разработан Directed Acyclic Graph (DAG) для Apache Airflow, который отвечает за автоматическую генерацию тестовых данных и их сохранение в базу данных MongoDB.
 
