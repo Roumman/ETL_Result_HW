@@ -49,7 +49,10 @@
 
 5. Подключение к ClickHouse:
    - Создан клиент для подключения к ClickHouse с использованием учетных данных администратора.
+
+
 # Итоги реализации Dockerfile для Airflow
+[Посмотреть код в Apache Airflow Dockerfile for ETL Processes.py](scr/Apache%20Airflow%20Dockerfile%20for%20ETL%20Processes.py)
 
 В данном коде был разработан Dockerfile, который определяет образ для Apache Airflow, предназначенный для управления ETL процессами.
 
