@@ -25,6 +25,7 @@
 
 
 # Итоги реализации подключения к базам данных
+[Посмотреть код в Database Connection Setup for ETL Pipeline.py](scr/Database Connection Setup for ETL Pipeline.py)
 
 В данном коде реализовано подключение к трем различным базам данных, которые используются в рамках ETL процессов для Apache Airflow.
 
