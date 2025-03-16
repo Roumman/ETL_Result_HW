@@ -1,7 +1,7 @@
 # Проект ETL Pipeline с использованием Airflow, MongoDB, PostgreSQL и ClickHouse
 
 
-# Итоги реализации DAG для генерации данных в MongoDB [Посмотреть код в utils.py](../src/MongoDB Data Generation DAG)
+# Итоги реализации DAG для генерации данных в MongoDB [Посмотреть код в utils.py](src/MongoDB Data Generation DAG)
 
 В данном коде был разработан Directed Acyclic Graph (DAG) для Apache Airflow, который отвечает за автоматическую генерацию тестовых данных и их сохранение в базу данных MongoDB.
 
