@@ -78,6 +78,7 @@
 
 
 # Итоги реализации кода Docker Compose для ETL Pipeline
+[Посмотреть код в ETL Pipeline Docker Compose Configuration.py](scr/ETL%20Pipeline%20Docker%20Compose%20Configuration.py)
 
 В данном коде была разработана конфигурация Docker Compose, которая создает и управляет несколькими сервисами, необходимыми для реализации ETL пайплайна. 
 
