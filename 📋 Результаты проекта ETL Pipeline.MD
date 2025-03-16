@@ -121,6 +121,7 @@
 
 
 ## Итоги реализации DAG для создания таблиц и переноса данных
+[Посмотреть код в ETL Data Transfer to ClickHouse](scr/ETL%20Data%20Transfer%20to%20ClickHouse.py)
 
 В данном коде реализован Directed Acyclic Graph (DAG) для Apache Airflow, который отвечает за создание таблиц в ClickHouse и перенос данных из PostgreSQL в ClickHouse.
 
